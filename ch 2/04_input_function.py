@@ -1,0 +1,5 @@
+a= input("Enter Your Name : ")
+print(a)
+print(type(a))
+a=int(a) #Convert str to int (if possible)
+print(type(a))
